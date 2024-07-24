@@ -1,0 +1,4 @@
+Create sample function and upload in the git respository :
+
+Addition
+Multiplication
